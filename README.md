@@ -2,11 +2,11 @@
 
 Durante a minha formação, realizei projetos em Python e C++, desenvolvidos nas disciplinas:
 
-  Programação I (fundamentos básicos de programação)
+    Programação I (fundamentos básicos de programação)
 
-  Métodos Numéricos (resolução computacional de problemas matemáticos)
+    Métodos Numéricos (resolução computacional de problemas matemáticos)
 
-  Física Computacional (simulações de sistemas físicos e modelação numérica)
+    Física Computacional (simulações de sistemas físicos e modelação numérica)
 
 No GitHub, partilho alguns desses projetos académicos, bem como trabalhos pessoais que continuo a desenvolver no meu tempo livre.
 
