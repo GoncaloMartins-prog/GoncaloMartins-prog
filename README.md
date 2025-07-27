@@ -2,11 +2,11 @@
 
 Durante a minha formação, realizei projetos em Python e C++, desenvolvidos nas disciplinas:
 
-    Programação I (fundamentos básicos de programação)
+   * Programação I (fundamentos básicos de programação)
 
-    Métodos Numéricos (resolução computacional de problemas matemáticos)
+   * Métodos Numéricos (resolução computacional de problemas matemáticos)
 
-    Física Computacional (simulações de sistemas físicos e modelação numérica)
+   * Física Computacional (simulações de sistemas físicos e modelação numérica)
 
 No GitHub, partilho alguns desses projetos académicos, bem como trabalhos pessoais que continuo a desenvolver no meu tempo livre.
 
@@ -14,11 +14,11 @@ No GitHub, partilho alguns desses projetos académicos, bem como trabalhos pesso
 
 During my studies, I completed projects in Python and C++, developed in the following courses:
 
-    Programming I (basic programming fundamentals)
+   * Programming I (basic programming fundamentals)
 
-    Numerical Methods (computational problem-solving)
+   * Numerical Methods (computational problem-solving)
 
-    Computational Physics (simulations of physical systems and numerical modeling)
+   * Computational Physics (simulations of physical systems and numerical modeling)
 
 On GitHub, I share some of these academic projects, as well as personal work that I continue to develop in my free time.
 
