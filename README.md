@@ -10,7 +10,6 @@ Durante a minha formação, realizei projetos em Python e C++, desenvolvidos nas
 
 No GitHub, partilho alguns desses projetos académicos, bem como trabalhos pessoais que continuo a desenvolver no meu tempo livre.
 
-##ENG
 ##👋 Hello! I have a Bachelor's degree in Physics with a strong interest in programming, numerical simulations, and data analysis.
 
 During my studies, I completed projects in Python and C++, developed in the following courses:
